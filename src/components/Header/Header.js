@@ -39,6 +39,7 @@ const MainHeader = styled.div`
 const Nav = styled.nav`
   display: flex;
   gap: 48px;
+  margin: 0 48px;
 `;
 
 const Side = styled.div`
